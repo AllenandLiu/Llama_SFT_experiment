@@ -6,7 +6,7 @@
 ##项目结构
 文件目录如下：
 
-···text
+```text
 filetree
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
