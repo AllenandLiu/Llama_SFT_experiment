@@ -6,7 +6,8 @@
 ##项目结构
 文件目录如下：
 
-···filetree
+···text
+filetree
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
 ├── README.md
