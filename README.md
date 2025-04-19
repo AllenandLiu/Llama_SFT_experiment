@@ -5,20 +5,21 @@
 
 ##项目结构
 文件目录如下：
->filetree 
->├── ARCHITECTURE.md
->├── LICENSE.txt
->├── README.md
->├── /account/
->├── /bbs/
->├── /docs/
->│  ├── /rules/
->│  │  ├── backend.txt
->│  │  └── frontend.txt
->├── manage.py
->├── /oa/
->├── /static/
->├── /templates/
->├── useless.md
->└── /util/
+
+filetree
+├── ARCHITECTURE.md
+├── LICENSE.txt
+├── README.md
+├── account/
+├── bbs/
+├── docs/
+│   ├── rules/
+│   │   ├── backend.txt
+│   │   └── frontend.txt
+├── manage.py
+├── oa/
+├── static/
+├── templates/
+├── useless.md
+└── util/
 
