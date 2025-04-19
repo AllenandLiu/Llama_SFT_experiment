@@ -5,6 +5,20 @@
 
 ##项目结构
 文件目录如下：
-    欢迎到访
-    我是C++码农
-    你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
+>filetree 
+>├── ARCHITECTURE.md
+>├── LICENSE.txt
+>├── README.md
+>├── /account/
+>├── /bbs/
+>├── /docs/
+>│  ├── /rules/
+>│  │  ├── backend.txt
+>│  │  └── frontend.txt
+>├── manage.py
+>├── /oa/
+>├── /static/
+>├── /templates/
+>├── useless.md
+>└── /util/
+
